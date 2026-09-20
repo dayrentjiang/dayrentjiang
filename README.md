@@ -41,12 +41,6 @@
 
 More on [dayrentjiang.com](https://dayrentjiang.com), plus internal systems not shown publicly.
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayrentjiang&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayrentjiang&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" height="165" />
-</p>
 
 ---
 
