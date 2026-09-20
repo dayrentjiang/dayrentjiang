@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Dayrent Tjiang 👋</h1>
 
 <p align="center">
-  Full stack developer. I build things end to end, from idea to shipped product.
+  Full stack developer. I build things end to end, from idea to shipped product. I turn complex problem into a clean implementation
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### About me
 
-- 🛠️ I work across the whole stack: frontend, backend, infra, and the occasional Raspberry Pi.
-- 🤖 I integrate AI where it actually helps, not because it's trendy.
-- 🧩 Framework-agnostic. I pick the tool that fits the problem, not the other way around.
+- 🛠️ I work across the whole stack: frontend, backend, cloud
+- 🤖 I integrate AI where it actually helps
+- 🧩 Framework-agnostic. I pick the tool that fits the problem
 - 🎯 I care about clean code and products that feel good to use.
 
 ### What I'm working with
@@ -38,18 +38,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
-
-### Things I've built
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Enroute** | Full platform connecting automotive workshops, logistics, drivers, and mechanics. Built end to end with a team. | Vue.js · PHP · Docker · GCP |
-| **KeepIt Reel** | Instant replay device that lets athletes capture their best moments in 1080p HD. | Next.js · Python · FastAPI · Raspberry Pi |
-| **Deepway** | Website for an Australian electric truck manufacturer. | Next.js · Sanity CMS · TypeScript |
-| **ASG Automotive** | Website for Australia's leading Sitrak truck dealership. | Next.js · Tailwind · TypeScript |
-| [**Smart AI Trashcan**](https://github.com/dayrentjiang/smart_trashcan_ai) | A trashcan that sorts your waste automatically as you throw it in. | Arduino · Raspberry Pi · Python |
-| [**CRM App**](https://github.com/dayrentjiang/CRM_App_Backend) | Full CRM with separate [frontend](https://github.com/dayrentjiang/CRM_App_Frontend) and backend. | TypeScript · Node |
-| [**AI Agents with JavaScript**](https://github.com/dayrentjiang/AI-agents-with-JavaScript) | Notebooks exploring how to build AI agents in JS. | JavaScript · Jupyter |
 
 More on [dayrentjiang.com](https://dayrentjiang.com), plus internal systems not shown publicly.
 
