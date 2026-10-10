@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="570" viewBox="0 0 1100 570" role="img" aria-labelledby="title desc">
+<title id="title">Dayrent Tjiang — full stack developer</title>
+<desc id="desc">ASCII portrait of Dayrent alongside his stack, contact details, and public GitHub statistics.</desc>
+<style>
+text { font-family: 'DejaVu Sans Mono', Menlo, Consolas, monospace; fill: #c9d1d9; font-size: 14px; }
+.key { fill: #ffa657; } .value { fill: #a5d6ff; }
+.muted { fill: #586575; } .accent { fill: #7ee787; }
+.portrait { font-size: 11.4px; }
+</style>
+<rect x=".5" y=".5" width="1099" height="569" rx="14" fill="#161b22" stroke="#30363d"/>
+
+<text class="portrait" x="24" y="30.0" xml:space="preserve"></text>
+<text class="portrait" x="24" y="40.4" xml:space="preserve"></text>
+<text class="portrait" x="24" y="50.8" xml:space="preserve">                        hHHMMhX     MXr</text>
+<text class="portrait" x="24" y="61.2" xml:space="preserve">                  H3hMHG#9BB99#SSSGGG3A5Hh</text>
+<text class="portrait" x="24" y="71.6" xml:space="preserve">                :h#S#9#9&amp;&amp;&amp;&amp;&amp;BB9##SSSGMHGGM2</text>
+<text class="portrait" x="24" y="82.0" xml:space="preserve">              rrM##9#99B&amp;&amp;@&amp;&amp;B9BB999###9#S#SG</text>
+<text class="portrait" x="24" y="92.4" xml:space="preserve">            53Ah9BBB99#SS9&amp;&amp;&amp;BBBBB99BBBBB99##B</text>
+<text class="portrait" x="24" y="102.8" xml:space="preserve">            ##BBB&amp;BBBBB9##9&amp;B99B&amp;&amp;BBBBBB99##SG</text>
+<text class="portrait" x="24" y="113.2" xml:space="preserve">           #9BBBB9BBB99BB999BBB&amp;&amp;B9BBBBB9BB9#H3</text>
+<text class="portrait" x="24" y="123.6" xml:space="preserve">          GSB9###SGS##S#9BBBB99BBBBBBB9BB&amp;&amp;@&amp;BG3</text>
+<text class="portrait" x="24" y="134.0" xml:space="preserve">         3G#9#SSS#B99#9B9#SGS####9BB999BB&amp;@&amp;&amp;B9M</text>
+<text class="portrait" x="24" y="144.4" xml:space="preserve">         H9#SHGSS#9999SHh5553hMMMMGS##999B&amp;BBBB9</text>
+<text class="portrait" x="24" y="154.8" xml:space="preserve">         ##SGGSSSSSGM3AsrrirsXXXAA5hHGSGS999##999</text>
+<text class="portrait" x="24" y="165.2" xml:space="preserve">         99SHSSSSSH2Xri;:,,::;;iirXA5hHMMGSSSS99B</text>
+<text class="portrait" x="24" y="175.6" xml:space="preserve">         B9SGSSSG3Xr;::,,.,,,,::::;rs2355MGGGSS9&amp;</text>
+<text class="portrait" x="24" y="186.0" xml:space="preserve">         BBSSSGG3s;:,,........,,,,,:;rAXX5MHG##B&amp;</text>
+<text class="portrait" x="24" y="196.4" xml:space="preserve">         BBSGGH3s;:,,,,..........,,:;rsXXA53HS9&amp;&amp;</text>
+<text class="portrait" x="24" y="206.8" xml:space="preserve">        #B#GM5Ar;iXA55Ar;:,,,..,:;X3MHHMh52XAhSB&amp;A</text>
+<text class="portrait" x="24" y="217.2" xml:space="preserve">        XSG5r;:isAAXsXAAXsi;:,:;rsA2AsrrsA2AsXh#Br</text>
+<text class="portrait" x="24" y="227.6" xml:space="preserve">        rhMX:,:rr;,...,:;ii;:,:;ri;:,..,,;rsss5GSr</text>
+<text class="portrait" x="24" y="238.0" xml:space="preserve">        :s3s,,,::,:;rAAsr;;:,.,:;;;s2h352siirrAM55</text>
+<text class="portrait" x="24" y="248.4" xml:space="preserve">        :,3r,,,,;Ah52M5Xr;,....,::iirsriiXAsirs3hM</text>
+<text class="portrait" x="24" y="258.8" xml:space="preserve">        #H3i,,,::::::;;:,......,,,,,:;;;;:::;ir5XA</text>
+<text class="portrait" x="24" y="269.2" xml:space="preserve">       &amp;GA2i,..................,:,,........,:;isX3</text>
+<text class="portrait" x="24" y="279.6" xml:space="preserve">       Mir:;,,.... ............,::,.........,:rsiXi</text>
+<text class="portrait" x="24" y="290.0" xml:space="preserve">       3rs:;,,.... ....,,..,,,,::,,:,.......,;sXii3</text>
+<text class="portrait" x="24" y="300.4" xml:space="preserve">       3;i:i:,,......,:;:;XAXssA52si;:,,,,,,:iXsiiM</text>
+<text class="portrait" x="24" y="310.8" xml:space="preserve">       #X:;i;:,,...,:;i::rsrrXAXXXAs;::::::;rsXr;XA</text>
+<text class="portrait" x="24" y="321.2" xml:space="preserve">        hr,:;;:::,,:;i:,,,,::;;;;;ii;;;;;;;irsXi;X</text>
+<text class="portrait" x="24" y="331.6" xml:space="preserve">        GM,,;;:::::;i:,,,,,;;;;iri;:;;;;i;iirrs;;:</text>
+<text class="portrait" x="24" y="342.0" xml:space="preserve">        #Gi.,;:,,,,:::;irXsri;;;rXA52Xri:;iirss;s</text>
+<text class="portrait" x="24" y="352.4" xml:space="preserve">         G5,:i:,,,,,,:iA3r,.    ,;iXXi:::;iirX33</text>
+<text class="portrait" x="24" y="362.8" xml:space="preserve">          HSG3;::,,,,,,:;iiriiiirrrri;::;irrX2</text>
+<text class="portrait" x="24" y="373.2" xml:space="preserve">          9##Hs;::::::,,:;:,,,:::issi;;iirsXA</text>
+<text class="portrait" x="24" y="383.6" xml:space="preserve">           GGGhsi;::::::::irsXXXXXsri;;irsXAA</text>
+<text class="portrait" x="24" y="394.0" xml:space="preserve">            3hMhsi;;::,,:::irrsrrri;;;;isX2A</text>
+<text class="portrait" x="24" y="404.4" xml:space="preserve">             hh5Arsi;:,,,,,,,,,,::::;;rXA5G</text>
+<text class="portrait" x="24" y="414.8" xml:space="preserve">              3Ar;rXsr;:,,,,,,,,::;irX2555</text>
+<text class="portrait" x="24" y="425.2" xml:space="preserve">              hr;:;isXXsriiiiirrsXXA553525</text>
+<text class="portrait" x="24" y="435.6" xml:space="preserve">              S2::::;rsX222255533333352AA5</text>
+<text class="portrait" x="24" y="446.0" xml:space="preserve">              BM:,,,:;;irsX2533333522AXXX5</text>
+<text class="portrait" x="24" y="456.4" xml:space="preserve">               i:,,,,,:;;;irrsXXAAAAAXsssX</text>
+<text class="portrait" x="24" y="466.8" xml:space="preserve">              ::,,,.,,,::;;iiiisXXXXsssssi</text>
+<text class="portrait" x="24" y="477.2" xml:space="preserve">            ..,:,,..,,,,:::;iirsssssrrrrsr,</text>
+<text class="portrait" x="24" y="487.6" xml:space="preserve">           ....,,.....,,,::::;iirrriiiirri,   .</text>
+<text class="portrait" x="24" y="498.0" xml:space="preserve">      ::.   ...........,,,,::;;;iii;;;iir,.   :rsr</text>
+<text class="portrait" x="24" y="508.4" xml:space="preserve">  :,::;;;,    .........,,,,::;;;i;;::;;ii,.  ,irrrrrsr</text>
+<text class="portrait" x="24" y="518.8" xml:space="preserve">:::,:::;:;:.   .........,,,:::;;;::::;ii....;isssssrrriri</text>
+<text class="portrait" x="24" y="529.2" xml:space="preserve">::;:;:;::;;:,.    .......,,,::::,,,:::,..,;rssrrrssrsiii;i;;</text>
+<text x="462" y="39">dayrent@github</text>
+<path d="M597.0 34H1068" stroke="#586575" stroke-width="1"/>
+<text x="462" y="63" xml:space="preserve"><tspan class="key">Name</tspan><tspan class="muted">: ................................................ </tspan><tspan class="value">Dayrent Tjiang</tspan></text>
+<text x="462" y="85" xml:space="preserve"><tspan class="key">Role</tspan><tspan class="muted">: .......................................... </tspan><tspan class="value">Full stack developer</tspan></text>
+<text x="462" y="107" xml:space="preserve"><tspan class="key">Focus</tspan><tspan class="muted">: ...................................... </tspan><tspan class="value">Idea to shipped product</tspan></text>
+<text x="462" y="129" xml:space="preserve"><tspan class="key">Approach</tspan><tspan class="muted">: .................................... </tspan><tspan class="value">Clean code. Useful AI.</tspan></text>
+<text x="462" y="151" xml:space="preserve"><tspan class="key">Availability</tspan><tspan class="muted">: ................................ </tspan><tspan class="accent">Open to freelance work</tspan></text>
+<text x="462" y="189">Stack</text>
+<path d="M520.5 184H1068" stroke="#586575" stroke-width="1"/>
+<text x="462" y="213" xml:space="preserve"><tspan class="key">Languages</tspan><tspan class="muted">: ...................... </tspan><tspan class="value">TypeScript, JavaScript, Python, PHP</tspan></text>
+<text x="462" y="235" xml:space="preserve"><tspan class="key">Frontend</tspan><tspan class="muted">: .............................. </tspan><tspan class="value">React, Next.js, Vue, Flutter</tspan></text>
+<text x="462" y="257" xml:space="preserve"><tspan class="key">Backend</tspan><tspan class="muted">: .................................. </tspan><tspan class="value">Node.js, Express, FastAPI</tspan></text>
+<text x="462" y="279" xml:space="preserve"><tspan class="key">Cloud</tspan><tspan class="muted">: ............................... </tspan><tspan class="value">Supabase, Docker, Google Cloud</tspan></text>
+<text x="462" y="301" xml:space="preserve"><tspan class="key">Tools</tspan><tspan class="muted">: ................................... </tspan><tspan class="value">Tailwind CSS, Raspberry Pi</tspan></text>
+<text x="462" y="339">Contact</text>
+<path d="M537.5 334H1068" stroke="#586575" stroke-width="1"/>
+<text x="462" y="363" xml:space="preserve"><tspan class="key">Website</tspan><tspan class="muted">: ........................................... </tspan><tspan class="value">dayrentjiang.com</tspan></text>
+<text x="462" y="385" xml:space="preserve"><tspan class="key">Email</tspan><tspan class="muted">: ....................................... </tspan><tspan class="value">dayrentjiang@gmail.com</tspan></text>
+<text x="462" y="407" xml:space="preserve"><tspan class="key">LinkedIn</tspan><tspan class="muted">: ......................................... </tspan><tspan class="value">in/dayrent-tjiang</tspan></text>
+<text x="462" y="445">GitHub Stats</text>
+<path d="M580.0 440H1068" stroke="#586575" stroke-width="1"/>
+<text x="462" y="469" xml:space="preserve"><tspan class="key">Public repos</tspan><tspan class="muted">: .................................................... </tspan><tspan class="value">25</tspan></text>
+<text x="462" y="491" xml:space="preserve"><tspan class="key">Stars / Followers</tspan><tspan class="muted">: ............................................ </tspan><tspan class="value">1 / 1</tspan></text>
+<text x="1068" y="549" text-anchor="end" class="muted" style="font-size:10px">Public data · updated 2026-10-10</text>
+</svg>
