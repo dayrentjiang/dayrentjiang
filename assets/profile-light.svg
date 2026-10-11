@@ -81,5 +81,5 @@ text { font-family: 'DejaVu Sans Mono', Menlo, Consolas, monospace; fill: #24292
 <path d="M580.0 440H1068" stroke="#8c959f" stroke-width="1"/>
 <text x="462" y="469" xml:space="preserve"><tspan class="key">Public repos</tspan><tspan class="muted">: .................................................... </tspan><tspan class="value">25</tspan></text>
 <text x="462" y="491" xml:space="preserve"><tspan class="key">Stars / Followers</tspan><tspan class="muted">: ............................................ </tspan><tspan class="value">1 / 1</tspan></text>
-<text x="1068" y="549" text-anchor="end" class="muted" style="font-size:10px">Public data · updated 2026-10-10</text>
+<text x="1068" y="549" text-anchor="end" class="muted" style="font-size:10px">Public data · updated 2026-10-11</text>
 </svg>
